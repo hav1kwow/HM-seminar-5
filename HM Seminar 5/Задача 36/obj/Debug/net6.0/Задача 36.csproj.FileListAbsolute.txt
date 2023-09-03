@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\bin\Debug\net6.0\Задача 36.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\bin\Debug\net6.0\Задача 36.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\bin\Debug\net6.0\Задача 36.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\bin\Debug\net6.0\Задача 36.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\bin\Debug\net6.0\Задача 36.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\refint\Задача 36.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\Задача 36.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 5\Задача 36\obj\Debug\net6.0\ref\Задача 36.dll

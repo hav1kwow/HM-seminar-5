@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\bin\Debug\net6.0\home work seminar 4.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\bin\Debug\net6.0\home work seminar 4.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\bin\Debug\net6.0\home work seminar 4.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\bin\Debug\net6.0\home work seminar 4.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\bin\Debug\net6.0\home work seminar 4.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\refint\home work seminar 4.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\home work seminar 4.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\home work seminar 4\obj\Debug\net6.0\ref\home work seminar 4.dll

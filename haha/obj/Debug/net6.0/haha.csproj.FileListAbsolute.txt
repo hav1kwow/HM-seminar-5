@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\bin\Debug\net6.0\haha.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\bin\Debug\net6.0\haha.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\bin\Debug\net6.0\haha.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\bin\Debug\net6.0\haha.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\bin\Debug\net6.0\haha.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\refint\haha.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\haha.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\haha\obj\Debug\net6.0\ref\haha.dll

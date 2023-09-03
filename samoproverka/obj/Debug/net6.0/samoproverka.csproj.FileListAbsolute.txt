@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\bin\Debug\net6.0\samoproverka.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\bin\Debug\net6.0\samoproverka.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\bin\Debug\net6.0\samoproverka.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\bin\Debug\net6.0\samoproverka.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\bin\Debug\net6.0\samoproverka.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\refint\samoproverka.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\samoproverka.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\samoproverka\obj\Debug\net6.0\ref\samoproverka.dll

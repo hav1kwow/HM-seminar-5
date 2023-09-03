@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\bin\Debug\net6.0\seminar 5-2.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\bin\Debug\net6.0\seminar 5-2.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\bin\Debug\net6.0\seminar 5-2.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\bin\Debug\net6.0\seminar 5-2.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\bin\Debug\net6.0\seminar 5-2.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\refint\seminar 5-2.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\seminar 5-2.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\seminar 5-2\obj\Debug\net6.0\ref\seminar 5-2.dll
