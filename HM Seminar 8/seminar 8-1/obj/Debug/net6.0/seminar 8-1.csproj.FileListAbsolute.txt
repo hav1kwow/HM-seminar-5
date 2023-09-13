@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\bin\Debug\net6.0\seminar 8-1.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\bin\Debug\net6.0\seminar 8-1.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\bin\Debug\net6.0\seminar 8-1.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\bin\Debug\net6.0\seminar 8-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\bin\Debug\net6.0\seminar 8-1.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\refint\seminar 8-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\seminar 8-1.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 8\seminar 8-1\obj\Debug\net6.0\ref\seminar 8-1.dll

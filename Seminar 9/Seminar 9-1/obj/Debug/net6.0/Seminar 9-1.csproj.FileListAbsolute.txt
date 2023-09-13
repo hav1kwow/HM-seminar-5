@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\bin\Debug\net6.0\Seminar 9-1.exe
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\bin\Debug\net6.0\Seminar 9-1.deps.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\bin\Debug\net6.0\Seminar 9-1.runtimeconfig.json
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\bin\Debug\net6.0\Seminar 9-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\bin\Debug\net6.0\Seminar 9-1.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\refint\Seminar 9-1.dll
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.pdb
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\Seminar 9-1.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\Seminar 9\Seminar 9-1\obj\Debug\net6.0\ref\Seminar 9-1.dll
