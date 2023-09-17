@@ -1,0 +1,5 @@
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 9\obj\Debug\net6.0\HM Seminar 9.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 9\obj\Debug\net6.0\HM Seminar 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 9\obj\Debug\net6.0\HM Seminar 9.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 9\obj\Debug\net6.0\HM Seminar 9.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками програмирования\Семинар 2\copy git\HM Seminar 9\obj\Debug\net6.0\HM Seminar 9.csproj.CoreCompileInputs.cache
